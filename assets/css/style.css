@@ -29,6 +29,12 @@ h6 {
   display: inline;
 }
 
+@media (min-width: 1px) and (max-width: 767px) {
+.image-roborobo-logo {
+   text-align: center
+   }
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
