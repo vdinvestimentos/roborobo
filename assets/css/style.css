@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   min-height: 900px !important;
-  height: 80vh;
+  height: 100vh;
   background: linear-gradient(#296f91, #5a5d57);
   /*background: linear-gradient(#191654, #f79335);
   background: linear-gradient(#191654, #43C6AC);*/
