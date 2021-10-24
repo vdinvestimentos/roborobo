@@ -31,7 +31,9 @@ h6 {
 
 @media (min-width: 1px) and (max-width: 767px) {
 .image-roborobo-logo {
-   text-align: center
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
    }
 }
 
